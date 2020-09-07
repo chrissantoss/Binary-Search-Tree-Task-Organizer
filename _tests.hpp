@@ -1,5 +1,5 @@
-#ifndef LAB3_TESTS_HPP
-#define LAB3_TESTS_HPP
+#ifndef _TESTS_HPP
+#define _TESTS_HPP
 
 #define ASSERT_TRUE(T) if (!(T)) return false;
 #define ASSERT_FALSE(T) if ((T)) return false;
@@ -8,11 +8,8 @@
 #include <sstream>
 #include <queue>
 
-#include "lab3_binary_search_tree.hpp"
-/*
-Christopher Santos: 20825729
-Andrew Seo: 20836578
-*/
+#include "_binary_search_tree.hpp"
+
 
 class BinarySearchTreeTest {
 public:
