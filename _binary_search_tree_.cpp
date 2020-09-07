@@ -1,11 +1,6 @@
 #include <iostream>
-#include "lab3_binary_search_tree.hpp"
+#include "_binary_search_tree.hpp"
 #include <algorithm>
-
-/*
-Christopher Santos: 20825729
-Andrew Seo: 20836578
-*/
 
 using namespace std;
 
