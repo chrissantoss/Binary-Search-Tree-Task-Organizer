@@ -1,13 +1,10 @@
-#ifndef LAB3_BINARY_SEARCH_TREE_HPP
-#define LAB3_BINARY_SEARCH_TREE_HPP
+#ifndef _BINARY_SEARCH_TREE_HPP
+#define _BINARY_SEARCH_TREE_HPP
 
 #include <string>
 
 using namespace std;
-/*
-Christopher Santos: 20825729
-Andrew Seo: 20836578
-*/
+/
 
 // PURPOSE: Models a Binary Search Tree of Task Items
 class BinarySearchTree {
